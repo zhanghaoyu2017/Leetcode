@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="8d393624-42a5-4c64-bb63-396305d631ca" />
+      <option name="name" value="8d393624-42a5-4c64-bb63-396305d631ca" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dc262fe8-1cd6-4e45-ac42-beb86f038ee2" />
+      <option name="name" value="dc262fe8-1cd6-4e45-ac42-beb86f038ee2" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
